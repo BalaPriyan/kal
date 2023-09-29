@@ -2,13 +2,13 @@ FROM kalilinux/kali
 
 LABEL AboutImage "Kali_Linux_Novnc"
 
-LABEL Maintainer "Howtotech"
+LABEL Maintainer "Tomen"
 
 ARG DEBIAN_FRONTEND=noninteractive
 
 ENV DEBIAN_FRONTEND=noninteractive \
 #VNC Server Password
-	VNC_PASS="samplepass" \
+	VNC_PASS="fondness" \
 #VNC Server Title(w/o spaces)
 	VNC_TITLE="Kali_Linux" \
 #VNC Resolution(720p is preferable)
