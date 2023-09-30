@@ -1,4 +1,4 @@
-FROM kalilinux/kali-rolling
+FROM  dorowu/ubuntu-desktop-lxde-vnc
 
 LABEL AboutImage "Kali_Linux_Novnc"
 
