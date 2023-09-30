@@ -1,4 +1,4 @@
-FROM  dorowu/ubuntu-desktop-lxde-vnc
+FROM  vengicafi/zorin-os-downloads
 
 LABEL AboutImage "Kali_Linux_Novnc"
 
